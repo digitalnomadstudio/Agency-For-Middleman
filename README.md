@@ -2,7 +2,7 @@
 This conversion of Start Bootstrap Agency is as close to the original as possible, as far as the layout and function is concerned.  
 The changes I made:  
  * Extended the intro background image so that it occupies more screen real estate on larger displays (no dead "white space" between sections)
- * Rotating, configurable intro text (via `banner.js`)
+ * Rotating, configurable intro text (via `[banner.js](/blob/master/source/js/banner.js)`)
 
 
 
