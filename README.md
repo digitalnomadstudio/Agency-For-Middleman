@@ -4,7 +4,17 @@ The changes I made:
  * Extended the intro background image so that it occupies more screen real estate on larger displays (no dead "white space" between sections)
  * Rotating, configurable intro text (via [banner.js](source/js/banner.js))
 
+Sections are broken down in to partials (as is the customary way with Middleman, Jekyll, Pelican and [*insert favorite staticgen tool here*]).  
+Several sections are configurable in `data`:  
+ * Team members (*name, title, image, description*)
+ * Services (*service, description, fontawesome icon*)
+ * Site details (*site name, heading/title*)
 
+
+
+
+
+Original Start Bootstrap README:  
 
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
