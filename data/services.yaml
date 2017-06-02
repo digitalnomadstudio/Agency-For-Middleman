@@ -1,0 +1,19 @@
+services:
+   -
+    service: E-Commerce
+    description: Aesthetic single-origin coffee freegan, jianbing drinking vinegar pok pok enamel pin sriracha. 
+    icon: shopping-cart
+   -
+    service: Responsive Design
+    description: Echo park pok pok offal, migas fixie 3 wolf moon taxidermy gochujang gastropub organic etsy hashtag fingerstache.  
+    icon: laptop
+    
+   - 
+    service: Web Development
+    description: Tattooed put a bird on it cardigan, craft beer snackwave marfa forage art party. Jean shorts mixtape YOLO authentic succulents.
+    icon: code
+
+   -
+    service: Web Security
+    description: Affogato hell of kogi banh mi bespoke shaman, green juice ethical meditation chambray. Authentic echo park organic franzen, aesthetic roof party DIY bespoke austin small batch whatever. 
+    icon: lock
