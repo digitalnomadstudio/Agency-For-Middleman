@@ -11,7 +11,24 @@ Several sections are configurable in `data`:
  * Site details (*site name, heading/title*)
 
 
-### Now with more hipster ipsum!
+
+### portfolio posts:  
+
+      ---
+      id: 1
+      title: Round Icons
+      date: 2017-06-01
+      image: roundicons.png
+      category: Graphic Design
+      client: Middleman
+      clienturl: https://middlemanapp.com
+      ---
+
+      Next level fam before they sold out, readymade shoreditch tbh williamsburg brooklyn ennui meggings 8-bit food truck dreamcatcher pork belly. Hot chicken williamsburg brunch hammock semiotics.
+
+
+### Now with more hipster ipsum!  
+
 ![Agency for Middleman](screenshots/Agency.png)
 
 Original Start Bootstrap README:  
