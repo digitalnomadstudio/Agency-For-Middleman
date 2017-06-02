@@ -24,7 +24,8 @@ Several sections are configurable in `data`:
       clienturl: https://middlemanapp.com
       ---
 
-      Next level fam before they sold out, readymade shoreditch tbh williamsburg brooklyn ennui meggings 8-bit food truck dreamcatcher pork belly. Hot chicken williamsburg brunch hammock semiotics.
+      Next level fam before they sold out, readymade shoreditch tbh williamsburg brooklyn ennui meggings 8-bit food truck dreamcatcher pork belly.  
+      Hot chicken williamsburg brunch hammock semiotics.
 
 
 ### Now with more hipster ipsum!  
