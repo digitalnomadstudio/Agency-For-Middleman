@@ -1,3 +1,12 @@
+# Agency for [Middleman](https://middlemanapp.com)  
+This conversion of Start Bootstrap Agency is as close to the original as possible, as far as the layout and function is concerned.  
+The changes I made:  
+ * Extended the intro background image so that it occupies more screen real estate on larger displays (no dead "white space" between sections)
+ * Rotating, configurable intro text (via `banner.js`)
+
+
+
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
 [Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
