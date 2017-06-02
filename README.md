@@ -12,7 +12,7 @@ Several sections are configurable in `data`:
 
 
 
-### portfolio posts:  
+### Portfolio items:  
 
       ---
       id: 1
