@@ -12,7 +12,7 @@ Several sections are configurable in `data`:
 
 
 ### Now with more hipster ipsum!
-
+![Agency for Middleman](screenshots/Agency.png)
 
 Original Start Bootstrap README:  
 
