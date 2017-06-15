@@ -1,11 +1,13 @@
 # Start Bootstrap Agency for [Middleman](https://middlemanapp.com)  
 As far as the layout and function is concerned, this conversion of Start Bootstrap Agency is as close to the original as possible.  
 The changes I made:  
+
  * Extended the intro background image so that it occupies more screen real estate on larger displays (no dead "white space" between sections)
  * Rotating, configurable intro text (via [banner.js](source/js/banner.js)) -- reverting to the original is a simple matter of commenting/uncommenting a couple of lines in [partials/_header.erb](source/partials/_header.erb)
 
 Sections are broken down in to partials (as is the customary way with Middleman, Jekyll, Pelican and [*insert favorite staticgen tool here*]).  
 Several sections are configurable in `data`:  
+
  * Team members (*name, title, image, description*)
  * Services (*service, description, fontawesome icon*)
  * Site details (*site name, heading/title*)
